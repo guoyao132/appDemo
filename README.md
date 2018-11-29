@@ -16,9 +16,6 @@ npm run dev
 ## 演示效果
 ![](pageAnimate.gif)
 
-## iOS滑动效果，可以切换到ios分支获取代码
-![](ios_animate.gif)
-
 ## 快速集成
 1.复制PageTransittion.vue到项目目录。
 2.修改router配置。
